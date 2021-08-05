@@ -1,0 +1,7 @@
+{
+  "name": "MultiPay",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
